@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "isbn": "978-3-16-148410-0",
+    "title": "El misterio del tiempo",
+    "author": "Ana Torres",
+    "publication_date": "2015-08-12",
+    "genre": "Ficción"
+  },
+  {
+    "id": 2,
+    "isbn": "978-1-4028-9462-6",
+    "title": "Viaje a la luna",
+    "author": "Carlos Mendoza",
+    "publication_date": "2018-03-22",
+    "genre": "Ciencia ficción"
+  },
+  {
+    "id": 3,
+    "isbn": "978-0-262-13472-9",
+    "title": "El arte de programar",
+    "author": "Laura Sánchez",
+    "publication_date": "2020-11-05",
+    "genre": "Educativo"
+  },
+  {
+    "id": 4,
+    "isbn": "978-0-545-01022-1",
+    "title": "Secretos del océano",
+    "author": "Miguel Ángel Ruiz",
+    "publication_date": "2017-06-30",
+    "genre": "Aventura"
+  },
+  {
+    "id": 5,
+    "isbn": "978-0-7432-7356-5",
+    "title": "Cocina para principiantes",
+    "author": "Sofía López",
+    "publication_date": "2019-09-15",
+    "genre": "Culinaria"
+  },
+  {
+    "id": 6,
+    "isbn": "978-1-250-03050-6",
+    "title": "Mundos invisibles",
+    "author": "Javier Fernández",
+    "publication_date": "2021-02-10",
+    "genre": "Fantasía"
+  },
+  {
+    "id": 7,
+    "isbn": "978-0-307-59394-2",
+    "title": "Historia de la música",
+    "author": "Patricia Gómez",
+    "publication_date": "2016-12-01",
+    "genre": "Historia"
+  },
+  {
+    "id": 8,
+    "isbn": "978-1-250-08050-1",
+    "title": "Robots y humanos",
+    "author": "Fernando Ruiz",
+    "publication_date": "2022-05-18",
+    "genre": "Tecnología"
+  },
+  {
+    "id": 9,
+    "isbn": "978-0-316-76948-0",
+    "title": "Viajes en el tiempo",
+    "author": "María Villanueva",
+    "publication_date": "2014-07-21",
+    "genre": "Ciencia ficción"
+  },
+  {
+    "id": 10,
+    "isbn": "978-0-06-112241-5",
+    "title": "Psicología para todos",
+    "author": "Diego Herrera",
+    "publication_date": "2013-10-10",
+    "genre": "Psicología"
+  }
+]
