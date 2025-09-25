@@ -1,5 +1,6 @@
 using fs_2025_a_api_demo_pablomiguelferrer_002;
 using fs_2025_a_api_demo_pablomiguelferrer_002.Endpoints;
+using fs_2025_a_api_demo_pablomiguelferrer_002.Startup;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.AddDependencies();
 
 var app = builder.Build();
 
