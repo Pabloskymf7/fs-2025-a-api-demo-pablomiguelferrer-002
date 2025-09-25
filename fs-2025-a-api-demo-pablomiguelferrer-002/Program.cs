@@ -22,11 +22,12 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.Run();
 app.AddWeatherEndPoint();
 app.AddBookEndPoint();
 app.AddRootEndPoint();
 app.AddCourseEndPoint();
+
+app.Run();
 
 
 internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
